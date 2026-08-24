@@ -1,0 +1,6 @@
+{
+  "name": "Bioinformatics & Computational Biology Profile",
+  "description": "Professional About Me page for Dr. Sanjay Deshpande featuring bioinformatics background, single-cell and genomic domain expertise, downloadable CV, interactive project portfolio, Google Scholar metrics, and recent publications list.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
